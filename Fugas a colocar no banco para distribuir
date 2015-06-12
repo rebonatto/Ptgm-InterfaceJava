@@ -1,0 +1,14 @@
+Eventos a colocar no BD (geradas em TNS)
+ 1 - Fase - Lampada incandescente           40W 0.16A   6223367 ->  1 Ok
+ 2 - Fase - Lampada fluorescente compacta   15W 0.14A   6223369 ->  3 Ok
+ 3 - Fase - Cauterio A corte                            6222047 ->  5 Ok
+ 4 - Fase - Cauterio A coagulação                       6222049 ->  7 Ok
+ 5 - Fase - Monitor Multiparamétrico C                  6221997 ->  9 Ok
+ 6 - Fase - Incubadora                                  6222315 -> 11 Ok
+ 7 - Fuga - Resistor 1mA                                6223371 -> 13 Ok
+ 8 - Fuga - Conjunta: Diodo 0.58mA                      6223398 -> 15 Ok
+ 9 - Fuga - Conjunta: Resistor saturando 2.37mA         6223399 -> 16 Ok
+10 - Fuga - Conjunta: Resistor Saturado + Diodo 2.46mA  6223397 -> 17 Ok
+
+
+
